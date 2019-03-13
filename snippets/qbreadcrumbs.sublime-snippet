@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<q-breadcrumbs>
+  <q-breadcrumbs-el label="${1:Home}" icon="${2:home}" />
+  <q-breadcrumbs-el label="${3:Components}" icon="${4:widgets}" />
+  <q-breadcrumbs-el label="${5:Breadcrumbs}" icon="${6:navigation}" />
+</q-breadcrumbs>
+]]></content>
+	<tabTrigger>qbreadcrumbs</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Breadcrumbs is a component used as a navigational aid in UI. It allows users to keep track of their location within programs, documents, or websites.</description>
+</snippet>

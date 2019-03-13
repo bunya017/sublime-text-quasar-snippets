@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<q-collapsible group="${1:somegroup}" icon="${2:explore}" label="${3:First}">
+  <div>
+    $0
+  </div>
+</q-collapsible>
+]]></content>
+	<tabTrigger>qcollapsible</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Collapsibles allow the hiding of content that is not immediately relevant to the user. Think of them as accordion elements that expand when clicked on.</description>
+</snippet>

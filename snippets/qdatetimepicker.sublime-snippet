@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-datetime-picker v-model="${1:model}" type="${2:datetime}" />
+]]></content>
+	<tabTrigger>qdatetimepicker</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The DatetimePicker component provides a method to input dates and time or both.</description>
+</snippet>

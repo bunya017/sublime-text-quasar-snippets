@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<q-btn-group>
+  <q-btn label="${1:One}" @click="${2:clickHandler1}"/>
+  <q-btn label="${3:Two}" @click="${4:clickHandler2}"/>
+  <q-btn label="${5:Three}" @click="${6:clickHandler3}"/>
+</q-btn-group>
+]]></content>
+	<tabTrigger>qbtngroup</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A group of QBtn components</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-tooltip v-model="${1:showing}">
+  $0
+</q-tooltip>
+]]></content>
+	<tabTrigger>qtooltip</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>QTooltip should be used when you want to offer the user more information about a certain area in your App. When hovering the mouse over the target element (or quickly tapping on mobile platforms), the Tooltip will appear.</description>
+</snippet>

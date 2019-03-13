@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-page :style-fn="${1:myTweak}">$0</q-page>
+]]></content>
+	<tabTrigger>qpage</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that holds page content</description>
+</snippet>

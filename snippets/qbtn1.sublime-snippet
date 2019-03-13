@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-btn color="${1:primary}" icon="${2:check}" label="${3:OK}" @click="${4:onClick}" />$0
+]]></content>
+	<tabTrigger>qbtn1</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A button with a few extra useful features</description>
+</snippet>

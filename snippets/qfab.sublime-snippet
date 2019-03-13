@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-fab color="${1:primary}" icon="${2:add}" direction="${3:up}">
+  <q-fab-action color="${4:purple}" @click="${5:someMethod}" icon="${6:mail}" />
+</q-fab>
+]]></content>
+	<tabTrigger>qfab</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A Floating Action Button (FAB) represents the primary action in an App Page. But, it’s not limited to only a single action. It can contain any number of sub-actions too</description>
+</snippet>

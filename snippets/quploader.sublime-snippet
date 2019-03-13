@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-uploader :url="${1:url}" />
+]]></content>
+	<tabTrigger>quploader</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar supplies a way for you to upload files through QUploader component.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-layout-drawer side="${1:left}">$0</q-layout-drawer>
+]]></content>
+	<tabTrigger>qlayoutdrawer</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Layout drawer</description>
+</snippet>

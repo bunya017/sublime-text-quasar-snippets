@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<q-option-group
+  color="${1:secondary}"
+  type="${2:checkbox}"
+  v-model="${3:group}"
+  :options="[
+    { label: '${4:Option 1}', value: '${5:op1}' },
+    { label: '${6:Option 2}', value: '${7:op2}' },
+    { label: '${8:Option 3}', value: '${9:op3}' }
+  ]"
+/>
+]]></content>
+	<tabTrigger>qoptiongroup</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The Quasar Option Group component is a helper component, which allows you to better control the grouping of binary (as in on or off, true or false, 1 or 0) form input components like checkboxes, radios or toggles.</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-page-sticky position="${1:top-right}" :offset="[${2:18}, ${3:18}]">
+  <q-btn round color="${4:primary}" @click="${5:alert}" icon="${6:alarm}" />
+</q-page-sticky>
+]]></content>
+	<tabTrigger>qpagesticky</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that helps in placing DOM elements wrapped by it into a static position within the content area of your Layout, no matter where the user scrolls</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-range v-model="${1:rangeValues}" :min="${2:0}" :max="${3:10}" :step="${4:1}" />
+]]></content>
+	<tabTrigger>qrange</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Range component is a great way to offer the user the selection of a sub-range of values between a minimum and maximum value, with optional steps to select those values</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-route-tab icon="${1:icon_name}" to="${2:route}" slot="${3:slot}" ${4:exact}/>
+]]></content>
+	<tabTrigger>qroutetab</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>You will, in most cases, want to use tabs within a layout component. Below is an example of how this would be done.</description>
+</snippet>

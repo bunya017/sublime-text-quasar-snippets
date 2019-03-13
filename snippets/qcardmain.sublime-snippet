@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-card-main>$1</q-card-main>
+]]></content>
+	<tabTrigger>qcardmain</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>QCardMain  defines an area containing the main Card content, like description, details or anything you need outside of the other Card component’s purpose.</description>
+</snippet>

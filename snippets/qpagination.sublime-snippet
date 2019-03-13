@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-pagination v-model="${1:page}" :max="${2:6}" />
+]]></content>
+	<tabTrigger>qpagination</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The Quasar Pagination component is available for whenever a pagination system is required. It offers the user a simple UI to help you in moving between pages/items.</description>
+</snippet>

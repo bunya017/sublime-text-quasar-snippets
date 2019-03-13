@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<q-select
+  v-model="${1:select}"
+  float-label="${2:Is Quasar Awesome?}"
+  ${3:radio}
+:options="${4:selectOptions}"
+/>
+]]></content>
+	<tabTrigger>qselect</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Select component has two types of selection: single selection (using Radios or Lists) or multiple selection (using Checkboxes or Toggles). This component opens up a Popover for the selection list and action. A filter can also be used for longer lists.</description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<q-knob
+  v-model="${1:model}"
+  :min="${2:min}"
+  :max="${3:max}"
+  :placeholder="${4:'$ ' + model}"
+/>
+]]></content>
+	<tabTrigger>qknob</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Knob is another way of making the user select a Number value from a predefined range. With optional steps included.</description>
+</snippet>

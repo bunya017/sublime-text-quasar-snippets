@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-card-title>$1</q-card-title>
+]]></content>
+	<tabTrigger>qcardtitle</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>QCardTitle has three main areas (all are optional): title, subtitle (“subtitle” slot) and right side (“right” slot).</description>
+</snippet>

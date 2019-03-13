@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<q-card-actions ${1:vertical} align="${2:center}">
+  <q-btn flat label="${3:Action 1}" />
+  <q-btn flat label="${4:Action 2}" />
+</q-card-actions>
+]]></content>
+	<tabTrigger>qcardactions</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Cards can have some actions (buttons) attached to them.</description>
+</snippet>

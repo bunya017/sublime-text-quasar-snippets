@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-tab slot="${1:slot}" name="${2:name}" icon="${3:icon_name}" label="${4:label}">$0</q-tab>
+]]></content>
+	<tabTrigger>qtab</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>QTab component is used to define a title for your Tab. Can be linked to a QTabPane through name prop.</description>
+</snippet>

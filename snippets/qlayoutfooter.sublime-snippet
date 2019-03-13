@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-layout-footer ${1:reveal} v-model="${2:footer}">$0</q-layout-footer>
+]]></content>
+	<tabTrigger>qlayoutfooter</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Layout footer</description>
+</snippet>

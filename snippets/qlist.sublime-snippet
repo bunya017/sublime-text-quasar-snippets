@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<q-list ${1:highlight}>
+  <q-list-header>${2:Recent chats}</q-list-header>
+  <q-item>
+    <q-item-side avatar="${3:statics/linux-avatar.png}" />
+    <q-item-main label="${4:Jim Doe}" />
+    <q-item-side right icon="${5:chat_bubble}" />
+  </q-item>
+</q-list>
+]]></content>
+	<tabTrigger>qlist</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Lists and List Items are a group of components which can work together to present multiple line items vertically as a single continuous element.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-checkbox v-model="${1:selection}" val="${2:one}" label="${3:One}" />
+]]></content>
+	<tabTrigger>qcheckbox</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The Quasar Checkbox component is a basic element to be used for selection or toggling by the user.</description>
+</snippet>

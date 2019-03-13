@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-card-media>
+  <img src="${1:~assets/some-image.jpg}">
+</q-card-media>
+]]></content>
+	<tabTrigger>qcardmedia</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Cards can also contain media elements: images, videos (through QVideo) or a parallax (through QParallax). This can be done through QCardMedia component, which supports an optional overlay too (for things like title and/or subtitle).</description>
+</snippet>
