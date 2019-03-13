@@ -1,0 +1,16 @@
+{
+  "name": "sublime-text-quasar-snippets",
+  "displayName": "Quasar Snippets",
+  "version": "0.1.0",
+  "description": "Sublime text snippets for quasar-framework",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunya017/sublime-text-quasar-snippets.git"
+  },
+  "author": "Bunyaminu Sani <dollabills007@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bunya017/sublime-text-quasar-snippets/issues"
+  },
+  "homepage": "https://github.com/bunya017/sublime-text-quasar-snippets#readme"
+}
