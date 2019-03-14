@@ -1,7 +1,7 @@
 # Quasar Framework Sublime Text 3 Snippets
 
 Sublime Text snippets for [Quasar Framework](https://quasar-framework.org/) UI components.
-This plugin is ported to sublime text from [Quasar Snippets](https://github.com/Abdelaziz18003/vscode-quasar-snippets) with the aid of this [VSCode to Sublime Text snippets converter](https://github.com/bunya017/Miscellaneous/blob/master/VSCode_to_sublime.py).
+This plugin is ported to sublime text from [vscode-quasar-snippets](https://github.com/Abdelaziz18003/vscode-quasar-snippets) with the aid of this [VSCode to Sublime Text snippets converter](https://github.com/bunya017/Miscellaneous/blob/master/VSCode_to_sublime.py).
 
 ## Install
 
