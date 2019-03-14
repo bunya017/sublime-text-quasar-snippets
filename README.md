@@ -6,7 +6,10 @@ This plugin is ported to sublime text from [Quasar Snippets](https://github.com/
 ## Install
 
 * Clone this repo into your sublime `Packages` folder.
-* Goto `Preferences > Settings` and add `"auto_complete_triggers": [ {"selector": "text.html.vue", "characters": "q"} ]` to the User panel.
+* Goto `Preferences > Settings` and add this to the User panel.
+```json
+"auto_complete_triggers": [ {"selector": "text.html.vue", "characters": "q"} ]
+``` 
 
 **Note:** You must have [Vue Syntax Highlight](https://github.com/vuejs/vue-syntax-highlight) installed for this plugin to work.
 
