@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>qpagesticky</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A component that helps in placing DOM elements wrapped by it into a static position within the content area of your Layout, no matter where the user scrolls</description>
-</snippet>
+	<description>A component that helps in placin...</description>
+	<!-- Long description: A component that helps in placing DOM elements wrapped by it into a static position within the content area of your Layout, no matter where the user scrolls --></snippet>

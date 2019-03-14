@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qtab</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>QTab component is used to define a title for your Tab. Can be linked to a QTabPane through name prop.</description>
-</snippet>
+	<description>QTab component is used to define...</description>
+	<!-- Long description: QTab component is used to define a title for your Tab. Can be linked to a QTabPane through name prop. --></snippet>

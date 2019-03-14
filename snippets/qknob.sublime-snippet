@@ -9,5 +9,5 @@
 ]]></content>
 	<tabTrigger>qknob</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Quasar Knob is another way of making the user select a Number value from a predefined range. With optional steps included.</description>
-</snippet>
+	<description>Quasar Knob is another way of ma...</description>
+	<!-- Long description: Quasar Knob is another way of making the user select a Number value from a predefined range. With optional steps included. --></snippet>

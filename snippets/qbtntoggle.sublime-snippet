@@ -12,5 +12,5 @@
 ]]></content>
 	<tabTrigger>qbtntoggle</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>The QBtnToggle component is another basic element for user input, similar to QRadio but with buttons. You can use this to supply a way for the user to pick an option from multiple choices.</description>
-</snippet>
+	<description>The QBtnToggle component is anot...</description>
+	<!-- Long description: The QBtnToggle component is another basic element for user input, similar to QRadio but with buttons. You can use this to supply a way for the user to pick an option from multiple choices. --></snippet>

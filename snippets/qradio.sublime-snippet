@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qradio</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>The Quasar Radio component is another basic element for user input. You can use this to supply a way for the user to pick an option from multiple choices.</description>
-</snippet>
+	<description>The Quasar Radio component is an...</description>
+	<!-- Long description: The Quasar Radio component is another basic element for user input. You can use this to supply a way for the user to pick an option from multiple choices. --></snippet>

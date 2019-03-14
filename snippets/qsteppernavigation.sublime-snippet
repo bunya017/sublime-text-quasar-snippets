@@ -13,5 +13,5 @@
 ]]></content>
 	<tabTrigger>qsteppernavigation</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>QStepperNavigation is a helper for encapsulating Stepper navigation buttons (within QStep or globally for the stepper as direct child of QStepper)</description>
-</snippet>
+	<description>QStepperNavigation is a helper f...</description>
+	<!-- Long description: QStepperNavigation is a helper for encapsulating Stepper navigation buttons (within QStep or globally for the stepper as direct child of QStepper) --></snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qtoggle</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>The Quasar Toggle component is another basic element for user input. You can use this for turning settings, features or true/ false inputs on and off.</description>
-</snippet>
+	<description>The Quasar Toggle component is a...</description>
+	<!-- Long description: The Quasar Toggle component is another basic element for user input. You can use this for turning settings, features or true/ false inputs on and off. --></snippet>

@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>qtabs</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Quasar Tabs are a way of displaying more information using less window real estate.</description>
-</snippet>
+	<description>Quasar Tabs are a way of display...</description>
+	<!-- Long description: Quasar Tabs are a way of displaying more information using less window real estate. --></snippet>

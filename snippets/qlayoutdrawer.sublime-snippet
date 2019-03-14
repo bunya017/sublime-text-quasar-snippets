@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qlayoutdrawer</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Layout drawer</description>
-</snippet>
+	<description>Layout drawer...</description>
+	<!-- Long description: Layout drawer --></snippet>

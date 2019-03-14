@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>qtree</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Quasar Tree represents a highly configurable component that displays hierarchical data, such as a table of contents in a tree structure.</description>
-</snippet>
+	<description>Quasar Tree represents a highly ...</description>
+	<!-- Long description: Quasar Tree represents a highly configurable component that displays hierarchical data, such as a table of contents in a tree structure. --></snippet>

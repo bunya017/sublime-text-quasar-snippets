@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qchipsinput</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A component that allows user to enter a group of text items, which is also editable in the form of quick deletion of the Chips in the list.</description>
-</snippet>
+	<description>A component that allows user to ...</description>
+	<!-- Long description: A component that allows user to enter a group of text items, which is also editable in the form of quick deletion of the Chips in the list. --></snippet>

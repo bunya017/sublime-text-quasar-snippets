@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>qresizeobservable</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A component that emits a resize event whenever the wrapping DOM element / component (defined as direct parent of QResizeObservable) changes its size</description>
-</snippet>
+	<description>A component that emits a resize ...</description>
+	<!-- Long description: A component that emits a resize event whenever the wrapping DOM element / component (defined as direct parent of QResizeObservable) changes its size --></snippet>

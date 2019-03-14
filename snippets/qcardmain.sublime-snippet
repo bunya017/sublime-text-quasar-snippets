@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qcardmain</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>QCardMain  defines an area containing the main Card content, like description, details or anything you need outside of the other Card component’s purpose.</description>
-</snippet>
+	<description>QCardMain  defines an area conta...</description>
+	<!-- Long description: QCardMain  defines an area containing the main Card content, like description, details or anything you need outside of the other Card component’s purpose. --></snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qlayoutfooter</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Layout footer</description>
-</snippet>
+	<description>Layout footer...</description>
+	<!-- Long description: Layout footer --></snippet>

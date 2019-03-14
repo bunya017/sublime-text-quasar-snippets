@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qsearch</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A component that offers the user an input field with additional features for searching purposes.</description>
-</snippet>
+	<description>A component that offers the user...</description>
+	<!-- Long description: A component that offers the user an input field with additional features for searching purposes. --></snippet>

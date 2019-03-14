@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>qcollapsible</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Quasar Collapsibles allow the hiding of content that is not immediately relevant to the user. Think of them as accordion elements that expand when clicked on.</description>
-</snippet>
+	<description>Quasar Collapsibles allow the hi...</description>
+	<!-- Long description: Quasar Collapsibles allow the hiding of content that is not immediately relevant to the user. Think of them as accordion elements that expand when clicked on. --></snippet>

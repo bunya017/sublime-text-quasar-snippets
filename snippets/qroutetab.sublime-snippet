@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qroutetab</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>You will, in most cases, want to use tabs within a layout component. Below is an example of how this would be done.</description>
-</snippet>
+	<description>You will, in most cases, want to...</description>
+	<!-- Long description: You will, in most cases, want to use tabs within a layout component. Below is an example of how this would be done. --></snippet>

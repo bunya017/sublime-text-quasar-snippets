@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qbtn2</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A button with a few extra useful features</description>
-</snippet>
+	<description>A button with a few extra useful...</description>
+	<!-- Long description: A button with a few extra useful features --></snippet>
