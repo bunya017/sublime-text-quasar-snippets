@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>qcardactions</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Cards can have some actions (buttons) attached to them.</description>
-</snippet>
+	<description>Cards can have some actions (but...</description>
+	<!-- Long description: Cards can have some actions (buttons) attached to them. --></snippet>

@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>qbtngroup</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A group of QBtn components</description>
-</snippet>
+	<description>A group of QBtn components...</description>
+	<!-- Long description: A group of QBtn components --></snippet>

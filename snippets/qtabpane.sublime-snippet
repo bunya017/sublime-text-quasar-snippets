@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qtabpane</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>The Tabs Pane component is useful, when the content of each tab is relatively small or simple.</description>
-</snippet>
+	<description>The Tabs Pane component is usefu...</description>
+	<!-- Long description: The Tabs Pane component is useful, when the content of each tab is relatively small or simple. --></snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qcolor</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>A component that provides a method to input colors.</description>
-</snippet>
+	<description>A component that provides a meth...</description>
+	<!-- Long description: A component that provides a method to input colors. --></snippet>

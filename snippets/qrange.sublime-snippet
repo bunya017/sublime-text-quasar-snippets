@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>qrange</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Range component is a great way to offer the user the selection of a sub-range of values between a minimum and maximum value, with optional steps to select those values</description>
-</snippet>
+	<description>Range component is a great way t...</description>
+	<!-- Long description: Range component is a great way to offer the user the selection of a sub-range of values between a minimum and maximum value, with optional steps to select those values --></snippet>

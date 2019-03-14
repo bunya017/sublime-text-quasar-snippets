@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>quploader</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Quasar supplies a way for you to upload files through QUploader component.</description>
-</snippet>
+	<description>Quasar supplies a way for you to...</description>
+	<!-- Long description: Quasar supplies a way for you to upload files through QUploader component. --></snippet>

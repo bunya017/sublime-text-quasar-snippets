@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>qtoolbartitle</tabTrigger>
 	<scope>text.html.vue</scope>
-	<description>Used to wrap the “title” of your Toolbar. It spreads horizontally to the full real estate space it can get. If not enough space to cover the full extent of the content then ending ellipsis are used.</description>
-</snippet>
+	<description>Used to wrap the “title” of your...</description>
+	<!-- Long description: Used to wrap the “title” of your Toolbar. It spreads horizontally to the full real estate space it can get. If not enough space to cover the full extent of the content then ending ellipsis are used. --></snippet>
