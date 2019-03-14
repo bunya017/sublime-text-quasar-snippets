@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-toggle v-model="${1:selection}" val="${2:one}" label="${3:One}" />
+]]></content>
+	<tabTrigger>qtoggle</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The Quasar Toggle component is another basic element for user input. You can use this for turning settings, features or true/ false inputs on and off.</description>
+</snippet>

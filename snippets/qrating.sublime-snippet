@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-rating v-model="${1:ratingModel}" :max="${2:3}" />
+]]></content>
+	<tabTrigger>qrating</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Rating is a Component which allows users to rate items, usually known as “Star Rating”.</description>
+</snippet>

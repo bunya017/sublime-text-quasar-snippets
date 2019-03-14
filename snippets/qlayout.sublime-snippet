@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-layout view="hHr LpR lFf">$0</q-layout>
+]]></content>
+	<tabTrigger>qlayout</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Layouts are the elements that wrap page content, like a navigational bar or drawer. Multiple pages can share the same Layout, so the code is reusable, which is one of their key points.</description>
+</snippet>

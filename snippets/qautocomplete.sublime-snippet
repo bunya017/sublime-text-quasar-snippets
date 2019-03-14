@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<q-autocomplete
+  @search="${1:search}"
+  :min-characters="${2:3}"
+  @selected="${3:selected}"
+/>
+]]></content>
+	<tabTrigger>qautocomplete</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that binds to the parent textfield (eg. QInput, QSearch, QChipsInput) and offers suggestions to the user, while the user is typing.</description>
+</snippet>

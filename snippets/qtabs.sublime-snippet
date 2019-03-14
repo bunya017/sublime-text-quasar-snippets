@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<q-tabs>
+  <q-tab slot="${1:slot}" name="${2:name}" label="${3:label}"/>
+  <q-tab-pane name="${4:name}">$0</q-tab-pane>
+</q-tabs>
+]]></content>
+	<tabTrigger>qtabs</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Tabs are a way of displaying more information using less window real estate.</description>
+</snippet>

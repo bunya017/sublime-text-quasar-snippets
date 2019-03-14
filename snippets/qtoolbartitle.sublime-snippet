@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-toolbar-title>
+  $0
+</q-toolbar-title>
+]]></content>
+	<tabTrigger>qtoolbartitle</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Used to wrap the “title” of your Toolbar. It spreads horizontally to the full real estate space it can get. If not enough space to cover the full extent of the content then ending ellipsis are used.</description>
+</snippet>

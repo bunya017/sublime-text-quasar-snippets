@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<q-stepper-navigation>
+  <q-btn
+    @click="${1:$refs.stepper.previous()}"
+    label="${2:Back}"
+  />
+  <q-btn
+    @click="${3:$refs.stepper.next()}"
+    label="${4:Next}"
+  />
+</q-stepper-navigation>
+]]></content>
+	<tabTrigger>qsteppernavigation</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>QStepperNavigation is a helper for encapsulating Stepper navigation buttons (within QStep or globally for the stepper as direct child of QStepper)</description>
+</snippet>

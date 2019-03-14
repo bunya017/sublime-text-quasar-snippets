@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+<q-action-sheet
+  v-model="${1:actionSheet}"
+  title="${2:Action Sheet}"
+  @ok="${3:onOk}"
+  @cancel="${4:onCancel}"
+  @show="${5:onShow}"
+  @hide="${6:onHide}"
+  :actions="[
+    {
+      label: '${7:Delete}',
+      icon: '${8:delete}',
+      color: '${9:red}',
+      handler: ${10:deleteAction}
+    }
+  ]"
+/>$0
+]]></content>
+	<tabTrigger>qactionsheet</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Action Sheets slide up from the bottom edge of the device screen, and display a set of options with the ability to confirm or cancel an action. Action Sheets can sometimes be used as an alternative to menus, however, they should not be used for navigation.</description>
+</snippet>

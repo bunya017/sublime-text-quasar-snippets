@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-search v-model="${1:search}" icon="${2:place}" float-label="${2:search for a place}" ${3:clearable} />
+]]></content>
+	<tabTrigger>qsearch</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that offers the user an input field with additional features for searching purposes.</description>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<q-btn-dropdown label="${1:Button}">
+  <q-list link>
+    <q-item>
+      <q-item-main>
+        <q-item-tile label>${2:Item}</q-item-tile>
+      </q-item-main>
+    </q-item>
+  </q-list>
+</q-btn-dropdown>
+]]></content>
+	<tabTrigger>qbtndropdown</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A convenient dropdown button. Goes very well with QList as dropdown content</description>
+</snippet>

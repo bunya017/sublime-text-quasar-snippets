@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-radio v-model="${1:option}" val="${2:opt1}" label="${3:Option 1}" />
+]]></content>
+	<tabTrigger>qradio</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The Quasar Radio component is another basic element for user input. You can use this to supply a way for the user to pick an option from multiple choices.</description>
+</snippet>

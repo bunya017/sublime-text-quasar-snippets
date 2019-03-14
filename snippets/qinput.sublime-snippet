@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-input v-model="${1:text}" type="${2:text}" float-label="${3:Float Label}" placeholder="${4:Gigi}" />$0
+]]></content>
+	<tabTrigger>qinput</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that can be used for regular text input, passwords, email addresses, numbers, telephone numbers, urls and auto-growing text areas.</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-modal v-model="${1:opened}">
+  $0
+</q-modal>
+]]></content>
+	<tabTrigger>qmodal</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>The Quasar Modal component is a UI overlay, which offers extended screen space to allow the user to get more work done.</description>
+</snippet>

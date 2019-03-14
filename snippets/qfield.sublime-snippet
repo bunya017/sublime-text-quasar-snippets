@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<q-field
+  icon="${1:cloud}"
+  label="${2:Your Gmail}"
+  helper="${3:Helper}"
+  :error="${4:mailHasError}"
+  error-label="${5:We need a valid email}"
+  :count="${6:10}"
+>
+  $0
+</q-field>
+]]></content>
+	<tabTrigger>qfield</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that allows to easily build responsive Forms UI by wrapping each Form component (QInput, QSelect and so on) to enrich it with a main label, an icon, error placeholder and error state, helper placeholder and/or item/character counter.</description>
+</snippet>

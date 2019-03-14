@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-layout-header ${1:reveal} v-model="${2:header}">$0</q-layout-header>
+]]></content>
+	<tabTrigger>qlayoutheader</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Layout header</description>
+</snippet>

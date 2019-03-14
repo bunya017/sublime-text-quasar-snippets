@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<q-item tag="${1:label}">
+  <q-item-side>
+    ${2:<q-checkbox v-model="checkboxModel" />}
+  </q-item-side>
+  <q-item-main>
+    <q-item-tile label>${3:Notifications}</q-item-tile>
+    <q-item-tile sublabel>${4:Notify me about updates}</q-item-tile>
+  </q-item-main>
+  <q-item-side right>
+    ${5:<q-item-tile icon="chat_bubble" color="green" />}
+  </q-item-side>
+</q-item>
+]]></content>
+	<tabTrigger>qitem</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Lists can encapsulate Items or Item-like components, for example QCollapsible.</description>
+</snippet>

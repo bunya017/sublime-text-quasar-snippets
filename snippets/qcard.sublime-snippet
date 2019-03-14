@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<q-card>
+  <q-card-title>
+    ${1:Card Title}
+  </q-card-title>
+  <q-card-separator />
+  <q-card-main>
+    ${2:Card Content}
+  </q-card-main>
+</q-card>
+]]></content>
+	<tabTrigger>qcard</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>Quasar Cards are a great way to display important pieces of content, and are quickly emerging as a core design pattern for Apps.</description>
+</snippet>

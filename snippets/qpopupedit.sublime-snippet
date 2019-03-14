@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-popup-edit v-model="${1:model}">
+  $0
+</q-popup-edit>
+]]></content>
+	<tabTrigger>qpopupedit</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>QPopupEdit is a component that can be used to edit a value “in place”, like for example a cell in a QTable.</description>
+</snippet>

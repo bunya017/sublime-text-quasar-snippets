@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<q-pull-to-refresh :handler="${1:refresher}">
+  $0
+</q-pull-to-refresh>
+]]></content>
+	<tabTrigger>qpulltorefresh</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>When you want to allow the user to refresh the content or retrieve the newest content.</description>
+</snippet>

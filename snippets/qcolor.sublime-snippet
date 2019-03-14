@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-color v-model="${1:modelHex}" float-label="${2:Floating Label}" />
+]]></content>
+	<tabTrigger>qcolor</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that provides a method to input colors.</description>
+</snippet>

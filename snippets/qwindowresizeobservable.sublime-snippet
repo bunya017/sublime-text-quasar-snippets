@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<q-window-resize-observable @resize="${1:onResize}" />$0
+]]></content>
+	<tabTrigger>qwindowresizeobservable</tabTrigger>
+	<scope>text.html.vue</scope>
+	<description>A component that emits a resize event whenever the document viewport (window) changes its size</description>
+</snippet>
