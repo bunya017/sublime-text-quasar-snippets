@@ -5,4 +5,5 @@
 	<tabTrigger>qeditor</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A WYSIWYG (“what you see is what...</description>
-	<!-- Long description: A WYSIWYG (“what you see is what you get”) editor component. --></snippet>
+	<!-- Long description: A WYSIWYG (“what you see is what you get”) editor component. -->
+</snippet>

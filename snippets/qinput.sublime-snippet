@@ -5,4 +5,5 @@
 	<tabTrigger>qinput</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A component that can be used for...</description>
-	<!-- Long description: A component that can be used for regular text input, passwords, email addresses, numbers, telephone numbers, urls and auto-growing text areas. --></snippet>
+	<!-- Long description: A component that can be used for regular text input, passwords, email addresses, numbers, telephone numbers, urls and auto-growing text areas. -->
+</snippet>

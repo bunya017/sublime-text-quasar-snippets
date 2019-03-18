@@ -12,4 +12,5 @@
 	<tabTrigger>qlist</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>Quasar Lists and List Items are ...</description>
-	<!-- Long description: Quasar Lists and List Items are a group of components which can work together to present multiple line items vertically as a single continuous element. --></snippet>
+	<!-- Long description: Quasar Lists and List Items are a group of components which can work together to present multiple line items vertically as a single continuous element. -->
+</snippet>

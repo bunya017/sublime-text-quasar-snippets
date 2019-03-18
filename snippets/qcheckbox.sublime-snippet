@@ -5,4 +5,5 @@
 	<tabTrigger>qcheckbox</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>The Quasar Checkbox component is...</description>
-	<!-- Long description: The Quasar Checkbox component is a basic element to be used for selection or toggling by the user. --></snippet>
+	<!-- Long description: The Quasar Checkbox component is a basic element to be used for selection or toggling by the user. -->
+</snippet>

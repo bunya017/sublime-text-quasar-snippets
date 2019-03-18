@@ -5,4 +5,5 @@
 	<tabTrigger>qdatetimepicker</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>The DatetimePicker component pro...</description>
-	<!-- Long description: The DatetimePicker component provides a method to input dates and time or both. --></snippet>
+	<!-- Long description: The DatetimePicker component provides a method to input dates and time or both. -->
+</snippet>

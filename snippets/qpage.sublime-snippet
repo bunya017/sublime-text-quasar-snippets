@@ -5,4 +5,5 @@
 	<tabTrigger>qpage</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A component that holds page cont...</description>
-	<!-- Long description: A component that holds page content --></snippet>
+	<!-- Long description: A component that holds page content -->
+</snippet>

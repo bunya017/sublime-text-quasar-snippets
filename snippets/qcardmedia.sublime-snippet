@@ -7,4 +7,5 @@
 	<tabTrigger>qcardmedia</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>Cards can also contain media ele...</description>
-	<!-- Long description: Cards can also contain media elements: images, videos (through QVideo) or a parallax (through QParallax). This can be done through QCardMedia component, which supports an optional overlay too (for things like title and/or subtitle). --></snippet>
+	<!-- Long description: Cards can also contain media elements: images, videos (through QVideo) or a parallax (through QParallax). This can be done through QCardMedia component, which supports an optional overlay too (for things like title and/or subtitle). -->
+</snippet>

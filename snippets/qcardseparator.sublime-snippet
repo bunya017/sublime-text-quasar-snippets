@@ -5,4 +5,5 @@
 	<tabTrigger>qcardseparator</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>You can choose to add a separato...</description>
-	<!-- Long description: You can choose to add a separator between Card components, which is basically a horizontal thin line, by adding QCardSeparator. --></snippet>
+	<!-- Long description: You can choose to add a separator between Card components, which is basically a horizontal thin line, by adding QCardSeparator. -->
+</snippet>

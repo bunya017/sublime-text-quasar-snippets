@@ -16,4 +16,5 @@
 	<tabTrigger>qitem</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>Lists can encapsulate Items or I...</description>
-	<!-- Long description: Lists can encapsulate Items or Item-like components, for example QCollapsible. --></snippet>
+	<!-- Long description: Lists can encapsulate Items or Item-like components, for example QCollapsible. -->
+</snippet>

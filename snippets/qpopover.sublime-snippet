@@ -7,4 +7,5 @@
 	<tabTrigger>qpopover</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>QPopover should be used when you...</description>
-	<!-- Long description: QPopover should be used when you want a menu (or any content) to be displayed on a popup as a result of user clicking/tapping on a DOM element / component. --></snippet>
+	<!-- Long description: QPopover should be used when you want a menu (or any content) to be displayed on a popup as a result of user clicking/tapping on a DOM element / component. -->
+</snippet>

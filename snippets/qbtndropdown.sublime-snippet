@@ -13,4 +13,5 @@
 	<tabTrigger>qbtndropdown</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A convenient dropdown button. Go...</description>
-	<!-- Long description: A convenient dropdown button. Goes very well with QList as dropdown content --></snippet>
+	<!-- Long description: A convenient dropdown button. Goes very well with QList as dropdown content -->
+</snippet>

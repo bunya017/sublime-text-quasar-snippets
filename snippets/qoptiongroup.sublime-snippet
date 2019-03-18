@@ -14,4 +14,5 @@
 	<tabTrigger>qoptiongroup</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>The Quasar Option Group componen...</description>
-	<!-- Long description: The Quasar Option Group component is a helper component, which allows you to better control the grouping of binary (as in on or off, true or false, 1 or 0) form input components like checkboxes, radios or toggles. --></snippet>
+	<!-- Long description: The Quasar Option Group component is a helper component, which allows you to better control the grouping of binary (as in on or off, true or false, 1 or 0) form input components like checkboxes, radios or toggles. -->
+</snippet>

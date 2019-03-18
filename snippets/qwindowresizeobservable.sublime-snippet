@@ -5,4 +5,5 @@
 	<tabTrigger>qwindowresizeobservable</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A component that emits a resize ...</description>
-	<!-- Long description: A component that emits a resize event whenever the document viewport (window) changes its size --></snippet>
+	<!-- Long description: A component that emits a resize event whenever the document viewport (window) changes its size -->
+</snippet>

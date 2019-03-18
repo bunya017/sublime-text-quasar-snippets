@@ -5,4 +5,5 @@
 	<tabTrigger>qdatetime</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>The Datetime component provides ...</description>
-	<!-- Long description: The Datetime component provides a method to input dates and time or both. --></snippet>
+	<!-- Long description: The Datetime component provides a method to input dates and time or both. -->
+</snippet>

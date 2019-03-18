@@ -9,4 +9,5 @@
 	<tabTrigger>qautocomplete</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A component that binds to the pa...</description>
-	<!-- Long description: A component that binds to the parent textfield (eg. QInput, QSearch, QChipsInput) and offers suggestions to the user, while the user is typing. --></snippet>
+	<!-- Long description: A component that binds to the parent textfield (eg. QInput, QSearch, QChipsInput) and offers suggestions to the user, while the user is typing. -->
+</snippet>

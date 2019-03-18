@@ -5,4 +5,5 @@
 	<tabTrigger>qslider</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>Slider component is a great way ...</description>
-	<!-- Long description: Slider component is a great way to make the user specify a number value between a minimum and maximum value, with optional steps between valid values --></snippet>
+	<!-- Long description: Slider component is a great way to make the user specify a number value between a minimum and maximum value, with optional steps between valid values -->
+</snippet>

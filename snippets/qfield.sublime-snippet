@@ -14,4 +14,5 @@
 	<tabTrigger>qfield</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>A component that allows to easil...</description>
-	<!-- Long description: A component that allows to easily build responsive Forms UI by wrapping each Form component (QInput, QSelect and so on) to enrich it with a main label, an icon, error placeholder and error state, helper placeholder and/or item/character counter. --></snippet>
+	<!-- Long description: A component that allows to easily build responsive Forms UI by wrapping each Form component (QInput, QSelect and so on) to enrich it with a main label, an icon, error placeholder and error state, helper placeholder and/or item/character counter. -->
+</snippet>

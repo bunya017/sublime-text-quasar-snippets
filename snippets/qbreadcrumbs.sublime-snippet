@@ -9,4 +9,5 @@
 	<tabTrigger>qbreadcrumbs</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>Quasar Breadcrumbs is a componen...</description>
-	<!-- Long description: Quasar Breadcrumbs is a component used as a navigational aid in UI. It allows users to keep track of their location within programs, documents, or websites. --></snippet>
+	<!-- Long description: Quasar Breadcrumbs is a component used as a navigational aid in UI. It allows users to keep track of their location within programs, documents, or websites. -->
+</snippet>

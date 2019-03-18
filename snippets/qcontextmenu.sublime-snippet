@@ -14,4 +14,5 @@
 	<tabTrigger>qcontextmenu</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>This component allows you to dis...</description>
-	<!-- Long description: This component allows you to display a context menu (popup) instead of the default browser one when user performs a right-click (or long tap on touch capable devices). --></snippet>
+	<!-- Long description: This component allows you to display a context menu (popup) instead of the default browser one when user performs a right-click (or long tap on touch capable devices). -->
+</snippet>

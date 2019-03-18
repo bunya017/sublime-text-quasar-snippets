@@ -7,4 +7,5 @@
 	<tabTrigger>qpulltorefresh</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>When you want to allow the user ...</description>
-	<!-- Long description: When you want to allow the user to refresh the content or retrieve the newest content. --></snippet>
+	<!-- Long description: When you want to allow the user to refresh the content or retrieve the newest content. -->
+</snippet>

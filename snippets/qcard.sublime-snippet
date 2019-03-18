@@ -13,4 +13,5 @@
 	<tabTrigger>qcard</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>Quasar Cards are a great way to ...</description>
-	<!-- Long description: Quasar Cards are a great way to display important pieces of content, and are quickly emerging as a core design pattern for Apps. --></snippet>
+	<!-- Long description: Quasar Cards are a great way to display important pieces of content, and are quickly emerging as a core design pattern for Apps. -->
+</snippet>

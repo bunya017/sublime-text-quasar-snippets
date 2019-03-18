@@ -10,4 +10,5 @@
 	<tabTrigger>qtable</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>QTable is a Component that allow...</description>
-	<!-- Long description: QTable is a Component that allows you to display data in a tabular manner. --></snippet>
+	<!-- Long description: QTable is a Component that allows you to display data in a tabular manner. -->
+</snippet>
