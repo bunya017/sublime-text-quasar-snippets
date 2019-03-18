@@ -5,5 +5,5 @@
 	<tabTrigger>qcardtitle</tabTrigger>
 	<scope>text.html.vue</scope>
 	<description>QCardTitle has three main areas ...</description>
-	<!-- Long description: QCardTitle has three main areas (all are optional): title, subtitle (“subtitle” slot) and right side (“right” slot). -->
+	<!-- Long description: QCardTitle has three main areas (all are optional): title, subtitle (subtitle slot) and right side (right slot). -->
 </snippet>
